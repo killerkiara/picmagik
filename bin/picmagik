@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'picmagik'
+
+Picmagik::Runner.start( ARGV )
